@@ -65,7 +65,7 @@
 ■ 使用技術
 - Java, AWS(ECS Fargate), MySQL, Node.js, Google Apps Script
 
-■ 開発時期¥
+■ 開発時期
 - 2018年4月 - 2020年3月
 
 ### ソーシャルゲームの運用・機能追加
